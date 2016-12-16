@@ -1,0 +1,59 @@
+div{
+	padding-top: 5px;
+	padding-bottom: 7px;
+	align-content: center;
+}
+
+.border{
+	border: solid 1px;
+	background-color: rgba(75, 75, 75, 1);
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 2%;
+	margin-bottom: 1%;
+	padding: 10px;
+}
+
+.admin-row{
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+
+.admin-row a{
+	display: inline-block;
+	width: 30%;
+	margin: 5px 1.5;
+	border: 1px solid #000;
+	background-color: #8B8B83;
+	text-align: center;
+	text-decoration: none;
+	color: #000;
+}
+
+.button{
+	display: inline-block;
+	width: 5%;
+	margin: 5px 1.5;
+	border: 1px solid #000;
+	background-color: #8B8B83;
+	text-align: center;
+	text-decoration: none;
+	align-content: center;
+	color: #fff;
+}
+
+.border-pages{
+	border: solid 1px;
+	background-color: rgba(75, 75, 75, 1);
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 2%;
+	margin-bottom: 1%;
+	padding: 10px;
+	text-align: center;
+}
+
+a.button:hover{
+	color: #000;
+}

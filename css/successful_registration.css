@@ -1,0 +1,17 @@
+
+p.caption{
+	font-size: 25px;
+}
+
+a{
+	text-decoration: none;
+	color: #E8E8E8;
+}
+
+a:visited {
+    color: #E8E8E8; 
+   }
+
+a:active {
+    color: #E8E8E8; 
+   }
