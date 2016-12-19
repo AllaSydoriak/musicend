@@ -1,5 +1,5 @@
 # musicend
-My first dynamic website
+My first dynamic website for php-course
 
 **Includes:** </br>
 1) Registration </br>
